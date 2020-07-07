@@ -20,7 +20,7 @@
 
 ### API ENDPOINTS
 
-- create, remove, update, display PRODUCTS --> '/products/:id' (POST/DELETE/PUT/GET)
+- create, remove, update, display PRODUCTS --> '/product/:id' (POST/DELETE/PUT/GET)
 - create, remove, update, display USERS    --> '/user/:id' (POST/DELETE/PUT/GET)
 - update, remove, display PRODUCT FROM CART         --> '/cart' (PUT/DELETE/GET)
 
